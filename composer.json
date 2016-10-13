@@ -1,0 +1,12 @@
+{
+    "name": "clemquinones/notifiers",
+    "description": "A notifier for Laravel.",
+    "authors": [
+        {
+            "name": "Clem Quinones",
+            "email": "clemquinones@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
