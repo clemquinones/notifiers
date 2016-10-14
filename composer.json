@@ -1,4 +1,5 @@
 {
+    "version": "0.0.3",
     "name": "clemquinones/notifiers",
     "description": "A notifier for Laravel.",
     "license": "MIT",
